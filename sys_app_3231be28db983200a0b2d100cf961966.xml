@@ -5,8 +5,9 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
-        <menu display_value="">28eea714db543200a0b2d100cf96198c</menu>
+        <menu display_value="Staffing Request">28eea714db543200a0b2d100cf96198c</menu>
         <name>PS Staffing</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>

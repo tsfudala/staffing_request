@@ -2,7 +2,13 @@
 <record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model/>
+        <license_roles/>
         <name>x_24859_ps_staffing_request</name>
+        <op_delete>false</op_delete>
+        <op_insert>false</op_insert>
+        <op_update>false</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
