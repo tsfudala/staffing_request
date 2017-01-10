@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-10 18:38:59</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>df53f6a8db983200a0b2d100cf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Work Location</sys_name>

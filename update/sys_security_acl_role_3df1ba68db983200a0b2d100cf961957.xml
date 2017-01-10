@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-10 18:32:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3df1ba68db983200a0b2d100cf961957</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_24859_ps_staffing_request.x_24859_ps.staffing_request_user</sys_name>

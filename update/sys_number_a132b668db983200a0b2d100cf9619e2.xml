@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-10 18:33:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a132b668db983200a0b2d100cf9619e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PSREQ</sys_name>
