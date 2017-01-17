@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Solution" max_length="40" name="x_24859_ps_solution" type="collection">
+        <element display="true" label="Solution Name" max_length="40" name="solution_name" type="string"/>
+    </element>
+</database>

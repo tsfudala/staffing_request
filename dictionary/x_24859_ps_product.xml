@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Product" max_length="40" name="x_24859_ps_product" type="collection">
+        <element display="true" label="Product Name" max_length="40" name="product_name" type="string"/>
+        <element attributes="slushbucket_ref_no_expand" label="Solution" max_length="32" name="solution" reference="x_24859_ps_solution" type="reference"/>
+        <index name="index">
+            <element name="solution"/>
+        </index>
+    </element>
+</database>

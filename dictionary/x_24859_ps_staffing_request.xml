@@ -5,8 +5,9 @@
         <element label="End Date" max_length="40" name="end_date" read_only="true" type="string"/>
         <element label="Hours" max_length="40" name="hours" read_only="true" type="integer"/>
         <element label="Key" max_length="40" name="key" read_only="true" type="string"/>
+        <element attributes="slushbucket_ref_no_expand" label="Products" max_length="4000" name="products" reference="x_24859_ps_product" type="glide_list"/>
         <element label="Rate" max_length="20" name="rate" read_only="true" type="currency"/>
-        <element label="Role" max_length="40" name="role" read_only="true" type="string"/>
+        <element label="Role" max_length="40" name="role" type="string"/>
         <element label="Start Date" max_length="40" name="start_date" read_only="true" type="string"/>
         <element label="Work Location" max_length="40" name="work_location" read_only="true" type="string"/>
     </element>
