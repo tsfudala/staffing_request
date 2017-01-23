@@ -4,12 +4,10 @@
         <action>record_action</action>
         <active>true</active>
         <assignment_operator/>
-        <condition_script/>
+        <condition_script>(new x_24859_ps.psMailUtil).hasResourceManager(email.body_text)</condition_script>
         <description/>
         <event_name>email.read</event_name>
-        <filter_condition table="sys_email">bodyLIKEdavid.peets^EQ<item endquery="false" field="body" goto="false" newquery="false" operator="LIKE" or="false" value="david.peets"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter_condition>
+        <filter_condition/>
         <from/>
         <name>Staffing Request</name>
         <order>25</order>
@@ -48,11 +46,11 @@
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-10 19:15:25</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b8bbb66cdb983200a0b2d100cf961921</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Staffing Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="PS Staffing" source="x_24859_ps">3231be28db983200a0b2d100cf961966</sys_package>
@@ -61,7 +59,7 @@
         <sys_scope display_value="PS Staffing">3231be28db983200a0b2d100cf961966</sys_scope>
         <sys_update_name>sysevent_in_email_action_b8bbb66cdb983200a0b2d100cf961921</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-10 21:34:12</sys_updated_on>
+        <sys_updated_on>2017-01-23 16:18:39</sys_updated_on>
         <table>x_24859_ps_staffing_request</table>
         <template/>
         <type>forward</type>
