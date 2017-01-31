@@ -18,7 +18,7 @@
         <sys_update_name>sys_index_x_24859_ps_staffing_request_key</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-10 21:58:08</sys_updated_on>
-        <table display_value="Staffing Request" name="x_24859_ps_staffing_request">18c1f668db983200a0b2d100cf9619dd</table>
+        <table display_value="ServiceNow Staffing Request" name="x_24859_ps_staffing_request">18c1f668db983200a0b2d100cf9619dd</table>
         <unique_index>true</unique_index>
     </sys_index>
 </record_update>
