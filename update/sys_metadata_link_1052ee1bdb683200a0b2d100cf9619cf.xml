@@ -20,7 +20,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-31 16:43:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1052ee1bdb683200a0b2d100cf9619cf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Facilities Service Management</sys_name>
