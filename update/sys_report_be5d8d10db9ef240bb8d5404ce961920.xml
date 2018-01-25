@@ -24,12 +24,15 @@
         <column>active</column>
         <compute_percent>aggregate</compute_percent>
         <content/>
+        <created_by_user display_value="Todd Fudala">14f76be313735600b9c65d622244b0bd</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
-        <decimal_precision>0</decimal_precision>
+        <decimal_precision>2</decimal_precision>
         <description/>
         <direction>minimize</direction>
+        <display_column_lines>false</display_column_lines>
         <display_grid>false</display_grid>
+        <display_row_lines>false</display_row_lines>
         <donut_width_percent>50</donut_width_percent>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
@@ -39,6 +42,7 @@
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
         <group/>
+        <import_table/>
         <interval>year</interval>
         <is_published>false</is_published>
         <is_scheduled>false</is_scheduled>
@@ -58,6 +62,7 @@
         <other_threshold>-2</other_threshold>
         <others>true</others>
         <page_hdrftr display_value="Default">0ecdb03fc3613000cef73b251eba8f5e</page_hdrftr>
+        <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
         <roles>x_24859_ps.staffing_request_user</roles>
@@ -82,7 +87,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>todd.fudala</sys_created_by>
         <sys_created_on>2017-04-19 02:40:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>be5d8d10db9ef240bb8d5404ce961920</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>PS Staffing Rates by Role</sys_name>

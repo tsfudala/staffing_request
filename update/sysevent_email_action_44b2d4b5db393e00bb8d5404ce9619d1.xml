@@ -6,6 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_24859_ps_staffing_request</collection>
         <condition/>
         <content_type>text/html</content_type>
@@ -42,11 +43,11 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>todd.fudala</sys_created_by>
         <sys_created_on>2017-03-29 17:45:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>44b2d4b5db393e00bb8d5404ce9619d1</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Staffing Request Notice</sys_name>
         <sys_overrides/>
         <sys_package display_value="PS Staffing" source="x_24859_ps">3231be28db983200a0b2d100cf961966</sys_package>
@@ -54,8 +55,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="PS Staffing">3231be28db983200a0b2d100cf961966</sys_scope>
         <sys_update_name>sysevent_email_action_44b2d4b5db393e00bb8d5404ce9619d1</sys_update_name>
-        <sys_updated_by>todd.fudala</sys_updated_by>
-        <sys_updated_on>2017-06-14 21:25:43</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-10-27 19:34:01</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

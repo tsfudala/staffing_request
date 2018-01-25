@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2017-06-27 21:35:06">
+<record_update node_type="sys_portal_page" unload_date="2018-01-25 19:52:39">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
         <order/>
@@ -29,139 +29,70 @@
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
                 <dropzone>dropzone0</dropzone>
-                <offset>1</offset>
-                <page display_value="My  ServiceNow Performance">90e99836db79f2006013f9361d9619f9</page>
-                <summary/>
-                <sys_created_by>todd.fudala</sys_created_by>
-                <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                <sys_id>320a5036db79f2006013f9361d9619ab</sys_id>
-                <sys_mod_count>0</sys_mod_count>
-                <sys_updated_by>todd.fudala</sys_updated_by>
-                <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                <related_items_node>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>type</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>320a5036db79f2006013f9361d9619ac</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>performance_graph_set</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>360a5036db79f2006013f9361d9619ab</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>com.glide.ui.portal.RenderJavascript</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>graph_set</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>720a5036db79f2006013f9361d9619ab</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>307097770a0a0b070072fb3d8d784d2d</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>title</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>7e0a5036db79f2006013f9361d9619ab</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>Performance Graph Set</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer_id</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>ba0a5036db79f2006013f9361d9619ab</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>310643650a0001c3008bf60e06f5df63</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>cmdb_ci</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:39">320a5036db79f2006013f9361d9619ab</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:39</sys_created_on>
-                        <sys_id>f60a5036db79f2006013f9361d9619ab</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:39</sys_updated_on>
-                        <value>cdc3fda00a0a0b38000eb0d52830439c</value>
-                    </sys_portal_preferences>
-                </related_items_node>
-            </sys_portal>
-            <sys_portal action="INSERT_OR_UPDATE">
-                <dropzone>dropzone0</dropzone>
                 <offset>0</offset>
                 <page display_value="My  ServiceNow Performance">90e99836db79f2006013f9361d9619f9</page>
                 <summary/>
-                <sys_created_by>todd.fudala</sys_created_by>
-                <sys_created_on>2017-04-01 20:49:38</sys_created_on>
-                <sys_id>720a5036db79f2006013f9361d9619aa</sys_id>
+                <sys_created_by>system</sys_created_by>
+                <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                <sys_id>94281442db0203006013f9361d961987</sys_id>
                 <sys_mod_count>0</sys_mod_count>
-                <sys_updated_by>todd.fudala</sys_updated_by>
-                <sys_updated_on>2017-04-01 20:49:38</sys_updated_on>
+                <sys_updated_by>system</sys_updated_by>
+                <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:38">720a5036db79f2006013f9361d9619aa</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:38</sys_created_on>
-                        <sys_id>3a0a5036db79f2006013f9361d9619aa</sys_id>
+                        <portal_section display_value="Created 2017-10-27 15:12:42">94281442db0203006013f9361d961987</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                        <sys_id>10281442db0203006013f9361d961988</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:38</sys_updated_on>
-                        <value>performance_controls</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer_id</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:38">720a5036db79f2006013f9361d9619aa</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:38</sys_created_on>
-                        <sys_id>760a5036db79f2006013f9361d9619aa</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:38</sys_updated_on>
-                        <value>310643650a0001c3008bf60e06f5df63</value>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
+                        <value>content_block_iframe</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:38">720a5036db79f2006013f9361d9619aa</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:38</sys_created_on>
-                        <sys_id>b20a5036db79f2006013f9361d9619aa</sys_id>
+                        <portal_section display_value="Created 2017-10-27 15:12:42">94281442db0203006013f9361d961987</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                        <sys_id>18281442db0203006013f9361d961987</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:38</sys_updated_on>
-                        <value>com.glide.ui.portal.RenderJavascript</value>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-10-27 15:12:42">94281442db0203006013f9361d961987</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                        <sys_id>1c281442db0203006013f9361d961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
+                        <value>aac700a29f0132006715b73f957fcf10</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-10-27 15:12:42">94281442db0203006013f9361d961987</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                        <sys_id>98281442db0203006013f9361d961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
+                        <value>90e99836db79f2006013f9361d9619f9</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2017-04-01 16:49:38">720a5036db79f2006013f9361d9619aa</portal_section>
-                        <sys_created_by>todd.fudala</sys_created_by>
-                        <sys_created_on>2017-04-01 20:49:38</sys_created_on>
-                        <sys_id>fa0a5036db79f2006013f9361d9619aa</sys_id>
+                        <portal_section display_value="Created 2017-10-27 15:12:42">94281442db0203006013f9361d961987</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2017-10-27 19:12:42</sys_created_on>
+                        <sys_id>9c281442db0203006013f9361d961987</sys_id>
                         <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>todd.fudala</sys_updated_by>
-                        <sys_updated_on>2017-04-01 20:49:38</sys_updated_on>
-                        <value>Performance Graph Controls</value>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2017-10-27 19:12:42</sys_updated_on>
+                        <value>Performance Dashboards</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>

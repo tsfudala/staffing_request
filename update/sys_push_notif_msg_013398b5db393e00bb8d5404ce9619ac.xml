@@ -12,7 +12,7 @@ Contract Value: ${contract_value}</message_string>
         <sys_class_name>sys_push_notif_msg</sys_class_name>
         <sys_created_by>todd.fudala</sys_created_by>
         <sys_created_on>2017-03-29 17:46:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>013398b5db393e00bb8d5404ce9619ac</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>New Staffing Request</sys_name>

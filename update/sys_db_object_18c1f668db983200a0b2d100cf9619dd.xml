@@ -18,7 +18,9 @@
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Task" name="task">5799e46213221200b9c63d622244b0c9</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-10 18:32:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
